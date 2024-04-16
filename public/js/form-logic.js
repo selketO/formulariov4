@@ -918,7 +918,7 @@ const addProvidersToSelect = (providers) => {
         "Libros y revistas": "cloera@biancorelab.com",
         "Papeleria y Articulos de Oficina": "cloera@biancorelab.com",
         "Caja chica": "cloera@biancorelab.com",
-        "Apoyo en gasolina": "luis@biancorelab.com",
+        "Apoyo en gasolina": "cloera@biancorelab.com",
         "Combustibles y Lubricantes": "luis@biancorelab.com",
         "Viaticos Mid-Office": "luis@biancorelab.com",
         "No deducibles": "luis@biancorelab.com",
