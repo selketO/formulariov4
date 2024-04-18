@@ -909,7 +909,7 @@ const addProvidersToSelect = (providers) => {
         "Mtto de Equipo de Transporte (Mariana)": "cloera@biancorelab.com",
         "Mantenimiento Fijo Torre Ganesh": "cloera@biancorelab.com",
         "Mantenimiento Extemporaneo": "cloera@biancorelab.com",
-        "Einar Zavala Flores": "luis@biancorelab.com",
+        "Einar Zavala Flores": "cloera@biancorelab.com",
         "Mto de Equipo de Computo": "luis@biancorelab.com",
         "SW Sapien (Timbres fiscales)": "luis@biancorelab.com",
         "KSTRT Alejandro": "luis@biancorelab.com",
