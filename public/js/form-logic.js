@@ -951,6 +951,7 @@ const addProvidersToSelect = (providers) => {
         "dev": "edelgado@biancorelab.com",
       },
       'I + D': {
+        "Asesoria APV": "carlos@biancorelab.com",
         "Analisis microbiologicos": "carlos@biancorelab.com",
         "Irritabiidad y sensibilidad": "carlos@biancorelab.com",
         "Prorrogas de registro": "carlos@biancorelab.com",
